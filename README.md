@@ -63,8 +63,8 @@ The goal is for each participant to apply the virga sniffer tool to one week of 
 |          |   Mon             |   Tue           | Wed             |  Thu           |  Fri            |
 |:--------:|:-----------------:|:---------------:|:---------------:|:--------------:|:---------------:|
 | 12:00 - 13:00 | Introduction to Virga-Sniffer tool  | Data analysis & processing | Data analysis & processing | Statistical analysis over single results |  |
-| 12:00 - 13:00 | Installation of the Virga-Sniffer python package  | Data analysis & processing | Data analysis & processing | Preparing presentations | Presentation of single results and discussion |
-| 12:00 - 13:00 | Data familiarization & Q&A  | Data analysis & processing | Discussing and interpreting the single results | Wrap up & feedback |  |
+| 15:30 - 16:30 | Installation of the Virga-Sniffer python package  | Data analysis & processing | Data analysis & processing | Preparing presentations | Presentation of single results and discussion |
+| 18:00 - EOD | Data familiarization & Q&A  | Data analysis & processing | Discussing and interpreting the single results | Wrap up & feedback |  |
 
 
 <!-- LICENSE -->
