@@ -18,7 +18,7 @@
     <li><a href="#Introduction">Introduction</a></li>
     <!-- <li><a href="#Installation">Installation</a></li>    <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#Usage">Usage</a></li>
-    <!-- <li><a href="#roadmap">Roadmap</a></li> -->
+    <li><a href="#roadmap">Program</a></li>
     <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -40,6 +40,40 @@ Virga sniffer paper: https://amt.copernicus.org/articles/16/1683/2023/amt-16-168
 ## Usage
 
 Just go through the ipython notebook 'apply_virga-sniffer.ipynb' and follow the instructions
+
+<!-- Program -->
+## Program
+
+### Working group 1:
+Lead by Andreas Foth, Leipzig Institute for Meteorology, Leipzig University, Leipzig Germany
+### Title:
+„Application of the Virga-Sniffer tool for the detection of virga based on ground-based remote sensing data”
+
+### Audience:
+PhD students with an interest in ground-based remote sensing (5–8 participants). **Basic python skills are required.**
+
+### Focus:
+The Virga-Sniffer is a tool for detecting virga from ground-based remote sensing measurements. In the simplest approach, it detects virga from time–height fields of cloud radar reflectivity and time series of ceilometer cloud base height. In addition, optional parameters like lifting condensation level, a surface rain flag, and time-height fields of cloud radar mean Doppler velocity can be added to refine virga event identifications. The Virga-Sniffer Python package is highly modular and configurable and can be applied to multilayer cloud situations. It is therefore to be expected that different users will come to slightly different results, which is probably due to different settings. In this work program, the variability of the results is to be estimated.
+
+### Goal:
+The goal is for each participant to apply the virga sniffer tool to one week of the given datasets from Hyytiälä provided by the Cloudnet data portal, and produces statistical results about geometrical cloud and virga properties as well as statistics about classified targets from the Cloudnet target classification within detected virga. We will create a synopsis of the statistical results of each participant to determine the variability between the participants and to finally estimate a quantification of uncertainty of the Virga-Sniffer output.
+
+### Preliminary schedule:
+
+|          |   Mon             |   Tue           | Wed             |  Thu           |  Fri            |
++:--------:+:-----------------:+:---------------:+:---------------:+:--------------:+:---------------:+
+| 12:00    | Introduction to   | Data analysis & | Data analysis & | Statistical    | Presentation of |
+| --       | the Virga-        | processing      | processing      | analysis over  | single results  |
+| 13:30    | Sniffer tool      |                 |                 | single results | and discussions |
++:--------:+:-----------------:+:---------------:+:---------------:+:--------------:+:---------------:+
+| 15:30    | Installation of   | Data analysis & | Data analysis & | Preparing      | Presentation of |
+| --       | the Virga-Sniffer | processing      | processing      | presentations  | single results  |
+| 16:30    | python package    |                 |                 |                | and discussions |
++:--------:+:-----------------:+:---------------:+:---------------:+:--------------:+:---------------:+
+| 18:00    | Data              | Data analysis & | Discussing and  | Wrap up &      | Presentation of |
+| --       | familiarization   | processing      | interpreting the| feedback       | single results  |
+| EOD      | & Q&A             |                 | single results  |                | and discussions |
+
 
 <!-- LICENSE -->
 ## License
