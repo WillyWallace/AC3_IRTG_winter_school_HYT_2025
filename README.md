@@ -61,18 +61,10 @@ The goal is for each participant to apply the virga sniffer tool to one week of 
 ### Preliminary schedule:
 
 |          |   Mon             |   Tue           | Wed             |  Thu           |  Fri            |
-+:--------:+:-----------------:+:---------------:+:---------------:+:--------------:+:---------------:+
-| 12:00    | Introduction to   | Data analysis & | Data analysis & | Statistical    | Presentation of |
-| --       | the Virga-        | processing      | processing      | analysis over  | single results  |
-| 13:30    | Sniffer tool      |                 |                 | single results | and discussions |
-+:--------:+:-----------------:+:---------------:+:---------------:+:--------------:+:---------------:+
-| 15:30    | Installation of   | Data analysis & | Data analysis & | Preparing      | Presentation of |
-| --       | the Virga-Sniffer | processing      | processing      | presentations  | single results  |
-| 16:30    | python package    |                 |                 |                | and discussions |
-+:--------:+:-----------------:+:---------------:+:---------------:+:--------------:+:---------------:+
-| 18:00    | Data              | Data analysis & | Discussing and  | Wrap up &      | Presentation of |
-| --       | familiarization   | processing      | interpreting the| feedback       | single results  |
-| EOD      | & Q&A             |                 | single results  |                | and discussions |
+|:--------:|:-----------------:|:---------------:|:---------------:|:--------------:|:---------------:|
+| 12:00 - 13:00 | Introduction to Virga-Sniffer tool  | Data analysis & processing | Data analysis & processing | Statistical analysis over single results |  |
+| 12:00 - 13:00 | Installation of the Virga-Sniffer python package  | Data analysis & processing | Data analysis & processing | Preparing presentations | Presentation of single results and discussion |
+| 12:00 - 13:00 | Data familiarization & Q&A  | Data analysis & processing | Discussing and interpreting the single results | Wrap up & feedback |  |
 
 
 <!-- LICENSE -->
