@@ -18,7 +18,7 @@
     <li><a href="#Introduction">Introduction</a></li>
     <!-- <li><a href="#Installation">Installation</a></li>    <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#Usage">Usage</a></li>
-    <li><a href="#roadmap">Program</a></li>
+    <li><a href="#agenda">Agenda</a></li>
     <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -41,8 +41,8 @@ Virga sniffer paper: https://amt.copernicus.org/articles/16/1683/2023/amt-16-168
 
 Just go through the ipython notebook 'apply_virga-sniffer.ipynb' and follow the instructions
 
-<!-- Program -->
-## Program
+<!-- agenda -->
+## Agenda
 
 ### Working group 1:
 Lead by Andreas Foth, Leipzig Institute for Meteorology, Leipzig University, Leipzig Germany
@@ -62,10 +62,11 @@ The goal is for each participant to apply the virga sniffer tool to one week of 
 
 |          |   Mon             |   Tue           | Wed             |  Thu           |  Fri            |
 |:--------:|:-----------------:|:---------------:|:---------------:|:--------------:|:---------------:|
-| 12:00 - 13:00 | Introduction to Virga-Sniffer tool  | Data analysis & processing | Data analysis & processing | Statistical analysis over single results |  |
-| 15:30 - 16:30 | Installation of the Virga-Sniffer python package  | Data analysis & processing | Data analysis & processing | Preparing presentations | Presentation of single results and discussion |
-| 18:00 - EOD | Data familiarization & Q&A  | Data analysis & processing | Discussing and interpreting the single results | Wrap up & feedback |  |
+| 12:00<br>-<br>13:00 | Introduction to Virga-Sniffer tool  | Data analysis & processing | Data analysis & processing | Statistical analysis over single results |  |
+| 15:30<br>-<br>16:30 | Installation of the Virga-Sniffer python package  | Data analysis & processing | Data analysis & processing | Preparing presentations | Presentation of single results and discussion |
+| 18:00<br>-<br>EOD | Data familiarization & Q&A  | Data analysis & processing | Discussing and interpreting the single results | Wrap up & feedback |  |
 
+<p text-align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
