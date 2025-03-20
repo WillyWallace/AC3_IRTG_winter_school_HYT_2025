@@ -7,7 +7,7 @@
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/WillyWallace/winter_school_HYT_2025/releases/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/WillyWallace/winter_school_HYT_2025/graphs/commit-activity)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109461236453474330?domain=https%3A%2F%2Fmeteo.social&logoColor=%230066cc&style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/114193593282968080?domain=wisskomm.social)
 
 # Winter school in Hyytälä 2025 - Seminar on the application of the Virga Sniffer
 
